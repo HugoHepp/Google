@@ -1,0 +1,33 @@
+body 
+{
+	background-color: #fff;
+	color: #222;
+	font-family: arial, sans-serif;
+}
+
+.queryform
+{
+	margin-top: 10%;
+}
+
+.searchbar
+{
+	margin-top: 2%;
+}
+
+.gnavbar
+{
+	padding-top: 15px;
+	font-size: 15px;
+	font-family: arial;
+}
+
+.gnavbar a
+{
+	color:#5f6368;
+}
+
+.area
+{
+	margin-top: 10px;
+}
